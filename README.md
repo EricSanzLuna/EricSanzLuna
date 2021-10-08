@@ -1,5 +1,5 @@
 
-### A little more about me...
+### 👨‍🦱 A little more about me...
 ```JS
 const mexican = {
   pronouns: 'he' | 'him',
