@@ -1,4 +1,4 @@
-
+!https://github.com/EricSanzLuna/EricSanzLuna/blob/d911bf08988ac7d6e0287946f3abd7431bfe231a/intro.gif
 ### 👨‍🦱 A little more about me...
 ```JS
 const mexican = {
