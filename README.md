@@ -4,8 +4,19 @@
 ```JS
 const mexican = {
   pronouns: 'he' | 'him',
-  code: [TypeScript, JavaScript, Python, Rust, Cpp_for_Uc, Java, Assembler, SQLite, MoLang],
-  tools: [Node, Pip, Git, Nextcord, GameTestFramework_McBedrock, MPLAB],
-  architectures: [ChatBots, GameScripts, Microcontrollers, GameServers]
+  age: 25,
+  hobbie: "Use my skills to help & contribute"
 }
+
+const code = {
+  langs: [TypeScript, JavaScript, Python, Rust, Cpp_for_Uc, Java, Assembler, SQLite, MoLang],
+  tools: [Node, Pip, Git, Nextcord, GameTestFramework_McBedrock, MPLAB],
+  architectures: [ChatBots, GameScripts, Microcontrollers, GameServers, WebServices]
+}
+
+const electronics = {
+  
+}
+
+
 ```
