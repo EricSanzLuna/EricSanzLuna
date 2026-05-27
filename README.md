@@ -1,8 +1,6 @@
 <div align="center">
 
----
-<img src="https://github.com/EricSanzLuna/EricSanzLuna/blob/a93e9b56c9ef483960e2169031af913644b155ac/intro_V2.gif" alt="🖖🏼 Hi there! I'm EricSanzLuna" title="🖖🏼 Hi there! I'm EricSanzLuna" width="100%"/>
----
+<img src="https://github.com/EricSanzLuna/EricSanzLuna/blob/main/intro_V2.gif" alt="Eric Sánchez Luna" width="100%"/>
 
 ### `$ whoami` → Eric Eduardo Sánchez Luna
 **ITSM & ERP Administrator · Digital Transformation · Process Architect**
