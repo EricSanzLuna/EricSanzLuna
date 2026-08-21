@@ -21,7 +21,7 @@
 const eric: Developer = {
   pronouns : "he / him",
   location  : "Coyoacán, CDMX 🇲🇽",
-  age       : 25,
+  age       : 30,
   mindset   : "Build. Automate. Improve. Repeat.",
   motto     : "Convert ideas into systems that actually work.",
 
