@@ -60,8 +60,10 @@ const work = {
 
   tools: [
     "Ivanti", "Odoo", "Slack",
-    "PRTG", "PowerShell",
-    "PostgreSQL", "Python"
+    "PRTG", "Zabbix", "PowerShell",
+    "PostgreSQL", "Python", "n8n", 
+    "SQL Server", "MS Fabric", "MS Azure", 
+    "OCI", "GCP", "Claude", "Chat GPT", "Gemini" 
   ]
 };
 ```
